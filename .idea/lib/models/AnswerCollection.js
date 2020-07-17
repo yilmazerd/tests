@@ -1,26 +1,13 @@
-// Dependencies.
-
-// The length of the order id.
-const orderIdLength = 20;
-
 /**
- * Order class
+ * AnswerCollection class
  */
 class AnswerCollection {
     constructor(answers) {
-        // List of menu items user is going to by
+        // Throw error if the argument answers is not an array
         if (!Array.isArray(answers)) {
-            throw 'Parameter is not an array!';
+            throw 'Argument is not an array!';
         } else
         this.answers = answers;
-    }
-
-    /**
-     * Check if order has all required fields.
-     * @return {boolean}
-     */
-    isValid() {
-        return Array.isArray(this.answers);
     }
 
     isEmpty() {
