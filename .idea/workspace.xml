@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0ed70ba-2576-4cba-8065-ecbe9ae81bc3" name="Default Changelist" comment="" />
+    <list default="true" id="c0ed70ba-2576-4cba-8065-ecbe9ae81bc3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/lib/models/tests/AnswerCollectionTester.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollectionBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollectionTester.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,13 +23,16 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.idea/lib/models/tests" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1enTLtfpp1fEp8QRaMfvl0j0GEY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.4.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/lib/models2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -31,6 +41,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea/lib/models2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea/lib/models2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -54,11 +72,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594956304540</updated>
-      <workItem from="1594956307544" duration="1687000" />
+      <workItem from="1594956307544" duration="15846000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
