@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c0ed70ba-2576-4cba-8065-ecbe9ae81bc3" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/lib/models/tests/AnswerCollectionTester.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollectionBuilder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollectionTester.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollection.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollectionBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollectionBuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollectionTester.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lib/models2/AnswerCollectionTester.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594956304540</updated>
-      <workItem from="1594956307544" duration="15846000" />
+      <workItem from="1594956307544" duration="16762000" />
     </task>
     <servers />
   </component>
