@@ -29,7 +29,7 @@ class AnswerCollection {
         console.log('deleting key:',k)
         console.log(answerMapOut.get(k))
         answerMapOut.delete(k)
-        return this.answerCollectionBuilder.withAnswers(answerMapOut).build();
+        return this.answerCollectionBuilder.newBuilder().withAnswers(answerMapOut).build();
     }
 
     getKeys() {

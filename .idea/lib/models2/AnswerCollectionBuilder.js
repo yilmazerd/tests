@@ -37,11 +37,14 @@ class AnswerCollectionBuilder {
         return this.answersMap;
     }
 
-    build() {
-        let acOut =  new AnswerCollection(this);
-        this.answersMap = new Map();
-        return acOut;
+    newBuilder() {
+        return new AnswerCollectionBuilder([]);
     }
+
+    build() {
+        return new AnswerCollection(this);
+    }
+
 
 }
 

@@ -32,6 +32,10 @@ console.log(ac41 instanceof AnswerCollection)
 //TEST-5 Assert we can build with empty array
 new AnswerCollectionBuilder().withAnswers([]).build();
 
+//TEST5-1 Assert new builder
+let ac5111 = new AnswerCollectionBuilder().withAnswers(answersMap);
+let ac5112 = ac5111.newBuilder()
+
 //TEST-6 Assert we can build with empty array
 let answersMap6 = new Map();
 ac61 = new AnswerCollectionBuilder().withAnswers(answersMap).withAnswer('key.1.1','value.1.1').withAnswer('key.2.1','value.2.1').build();
@@ -50,3 +54,4 @@ console.log(ac73)
 //Test-8 test get keys
 ac81 = new AnswerCollectionBuilder().withAnswers(answersMap).withAnswer('key.1.1','value.1.1').withAnswer('key.2.1','value.2.1').build();
 console.log(ac81.getKeys())
+
